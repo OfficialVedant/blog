@@ -1,43 +1,38 @@
 ---
-title: "About The Author"
-description: "this is meta-description"
-image: "images/author.png"
-layout: "about"
-draft: false
-
-# education
+title: About The Author
+description: this is meta-description
+image: images/Author.jpg
+layout: about
 education:
   enable: true
-  title: "Formal Education"
+  title: Formal Education
   education_list:
-  - name: "Southeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Northeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Easteast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-  - name: "Southeast University"
-    content: "1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli"
-
-# experience
+  - name: Southeast University
+    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
+  - name: Northeast University
+    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
+  - name: Easteast University
+    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
+  - name: Southeast University
+    content: 1985 • 1991 • gravida nibh velvelit auctor alimo quet menean solli
 experience:
   enable: true
-  title: "Work Experience"
+  title: Work Experience
   experience_list:
-  - "Best Writer Award"
-  - "Best New Newel"
-  - "Best Book"
-  - "Best Article"
-  - "Best New Newel"
-  - "Best New Newel"
-  - "Best Book"
-  - "Best Article"
-  - "Best New Newel"
-  - "Best Book"
+  - Best Writer Award
+  - Best New Newel
+  - Best Book
+  - Best Article
+  - Best New Newel
+  - Best New Newel
+  - Best Book
+  - Best Article
+  - Best New Newel
+  - Best Book
 
 ---
+Vedant Dwivedi is a highly accomplished individual who possesses a unique combination of skills and expertise. His background in engineering and data science has provided him with a strong foundation in problem-solving, critical thinking, and technical skills. But, it is his business acumen and ability to think strategically that sets him apart. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi amet, ultrices scelerisue cras. Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsum lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis rutrum elit vestibululm ipsum. Arcu fringilla duis vitae mos dsdllis duicras interdum purus cursus massa metus. Acc umsan felaais, egsdvet nisi, viverra turpis fermentum sit suspf bafedfb ndisse fermentum consectetur. Facilisis feugiat trisique orci tempor sed masd fbsssa tristique ultrices sodales. Augue est sapien elementum facilisis. Enim tincidnt cras interdum purus  ndisse.  morbi quis nunc.
+As a data scientist, he has a deep understanding of the latest technologies and trends in the field of artificial intelligence and machine learning. He has applied this knowledge to various projects related to MLOps and DevOps, where he has demonstrated his ability to design and implement efficient and effective solutions. His entrepreneurial spirit and passion for innovation have also led him to develop several products. 
 
-
-Et dolor placerat tempus risus nunc urna, nunc a. Mattis viverra ut sapidaaen enim sed tortor. Mattis gravida fusce cras interdum purus cursus massa metus. Acc umsan felaais, eget nisi, viverra turpis fermentum sit suspf bafedfb ndisse.  morbi quis nunc, at arcu quam facilisi. In in lacus aliquam dictum sagittis morbi odio. Et magnis cursus sem sed condimentum. Nibh non potenti ac amsdfet Tincidunt hendrerit egestas venenatis risus sit nunc. Est esglit non in ipsuasdm lect;aaus adipiscing et enim porttitor. Dui ultrices et volud eetpat nunc, turpis  ndisse.  morbi quis nunc, at arcu quam facilisi  ndisse.  morbi quis nunc, at arcu quam facilisi
+Currently, he is working on &ai, an AI plugin and service integration platform, which aims to help enterprises and businesses become AI ready in just 10 minutes. This is a true testament to his ability to recognize market opportunities and develop innovative solutions to meet the needs of his customers. Vedant Dwivedi is a true expert in his field, with a diverse set of skills, including problem-solving, business acumen, and AI engineering. He is a dedicated professional who always goes above and beyond to deliver results. With his unique combination of technical and business skills, he is sure to make a significant impact in his field.
